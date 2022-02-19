@@ -2,9 +2,7 @@
 
 Our mission is to provide a financial instrument that facilitates investments
 
-## Economic Model
-
-TODO: Explain Olli / Tomi tokenomics here
+- [Economics](./economics)
 
 ## Current Focus: Document Recovery via Social Consensus
 
