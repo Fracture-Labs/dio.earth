@@ -2,6 +2,8 @@
 
 ## Fracture | Constitute
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQw5aVV5t4e0ZYh48j4rQ_7jjAZkK0nbUcJVayDMSgBdpLPltQlm7He0uB9pfxxj9iTdoxiFEaOYxO6/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### Objectives
 
 1. Allow users to store encrypted data, not yet knowing who the recipient will be
