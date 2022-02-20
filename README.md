@@ -6,7 +6,6 @@ and the democratization of power.
 
 For more information, choose a sub-topic:
 
-- [Current Focus: Fracture | Constitue (EthDenver 2022)](./current-focus.md)
+- [Current Focus: Fracture / Constitue for EthDenver 2022](./current-focus.md)
 - [Economics](./economics.md)
 - [Technologies and Applications](./technology.md)
-
