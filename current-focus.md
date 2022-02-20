@@ -12,7 +12,7 @@ Our technologies showcase proof-of-concepts for both sides of the
 encryption / decryption flows.
 
 - [Fracture] - implements the Umbral proxy re-encryption scheme
-- [Constitute] - provides a user-friendly approach that abstracts away msot
+- [Constitute] - provides a user-friendly approach that abstracts away most
 - [FractureDAO] - Algorand Multi-sig and DAO smart contracts
 
 [fracture]: https://github.com/fracture-labs/fracture
